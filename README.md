@@ -7,12 +7,12 @@
 
 ### 🧭 About Me
 
-- ◼️ I’m currently working on **a full-stack web application**  
-- ◼️ I’m learning **back-end technologies** to build complete web apps — currently exploring **APIs, servers, and databases**  
-- ◼️ I’m open to collaborating on **full-stack web development projects**  
-- ◼️ I regularly write articles on [Medium](https://medium.com/@ujjawalt207)  
-- ◼️ Ask me about **React, DSA, and Web Development**  
-- ◼️ Reach me at **ujjawalt207@gmail.com**  
+◼️ I’m currently working on **a full-stack web application**  
+◼️ I’m learning **back-end technologies** to build complete web apps — currently exploring **APIs, servers, and databases**  
+◼️ I’m open to collaborating on **full-stack web development projects**  
+◼️ I regularly write articles on [Medium](https://medium.com/@ujjawalt207)  
+◼️ Ask me about **React, DSA, and Web Development**  
+◼️ Reach me at **ujjawalt207@gmail.com**  
 
 ---
 
