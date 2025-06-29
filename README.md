@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I'm Ujjawal Tyagi</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ujjawaltyagi22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ### 🧭 About Me
 
- ◼️ I’m currently working on **a full-stack web application**  
- ◼️ I’m learning **back-end technologies** to build complete web apps — currently exploring **APIs, servers, and databases**  
- ◼️ I’m open to collaborating on **full-stack web development projects**  
- ◼️ I regularly write articles on [Medium](https://medium.com/@ujjawalt207)  
- ◼️ Ask me about **React, DSA, and Web Development**  
- ◼️ Reach me at **ujjawalt207@gmail.com**  
+- ◼️ I’m currently working on **a full-stack web application**  
+- ◼️ I’m learning **back-end technologies** to build complete web apps — currently exploring **APIs, servers, and databases**  
+- ◼️ I’m open to collaborating on **full-stack web development projects**  
+- ◼️ I regularly write articles on [Medium](https://medium.com/@ujjawalt207)  
+- ◼️ Ask me about **React, DSA, and Web Development**  
+- ◼️ Reach me at **ujjawalt207@gmail.com**  
 
 ---
 
